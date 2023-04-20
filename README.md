@@ -5,8 +5,8 @@ This repo contain the ui web page I created for the microservices-spring-applica
 <br/>
 it's only a preview for the project.<br/>
 
-To view the preview page 👉🏻 [please click here](http://baby-microservice.s3-website-eu-west-1.amazonaws.com/).<br/><br/>
-To view the source code of the project 👉🏻 [please click here](https://github.com/itsmechelly/JohnBryceClasses_Microservices/tree/master).<br/>
+To view the preview page 👉🏻 [please CLICK HERE](http://baby-microservice.s3-website-eu-west-1.amazonaws.com/).<br/><br/>
+To view the source code of the project 👉🏻 [please CLICK HERE](https://github.com/itsmechelly/JohnBryceClasses_Microservices/tree/master).<br/>
 
 ## 🤔 What is the purpose of this application?
 In this application there are several Spring Framework servers, each server runs a Tomcat Apache server by default and all of them together constitute a microservice application.
